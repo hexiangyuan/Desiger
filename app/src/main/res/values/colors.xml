@@ -3,4 +3,7 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="homeStatusBar">#FF676767</color>
+    <color name="homeNavBar">#99000000</color>
+    <color name="homeWindowsBg">#ff333333</color>
 </resources>
